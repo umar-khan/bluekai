@@ -1,1 +1,1 @@
-# bluekai
+# BlueKai Linux files
